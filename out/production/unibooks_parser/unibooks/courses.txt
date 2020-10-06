@@ -1,0 +1,71 @@
+Actg 199 Special Studies
+Actg 281 Accounting Mechanics: Debits and Credit
+Actg 310 Professional Accounting Seminar
+Actg 335 Accounting Information Systems and Analytic Fundamentals
+Actg 360 Management Accounting
+Actg 381 Financial Accounting and Reporting I
+Actg 382 Financial Accounting and Reporting II
+Actg 383 Financial Accounting and Reporting III
+Actg 399 Special Studies
+Actg 401 Research
+Actg 404 Internship
+Actg 405 Reading and Conference
+Actg 406 Special Projects
+Actg 407 Seminar
+Actg 409 Practicum
+Actg 410 Selected Topics
+Actg 421 Taxation
+Actg 422 Advanced Taxation
+Actg 430 Governmental Accounting
+Actg 431 Not-For-Profit Accounting
+Actg 445 Forensic Accounting
+Actg 460 Advanced Managerial Accounting
+Actg 485 Business Law
+Actg 490 Advanced Financial Accounting
+Actg 492 Auditing Concepts and Practices
+Actg 493 Advanced Auditing
+Actg 495 Integrated Accounting Issues
+Actg 501 Research
+Actg 502 Independent Study
+Actg 503 Thesis
+Actg 504 Internship
+Actg 505 Reading and Conference
+Actg 507 Seminar
+Actg 507S Seminar
+Actg 509 Practicum
+Actg 510 Selected Topics
+Actg 511 Financial Reporting
+Actg 513 Managerial Accounting and Control
+Actg 522 Advanced Taxation
+Actg 522S Advanced Taxation
+Actg 525 Tax Research Documentation and Procedure
+Actg 526 Accounting Methods and Periods
+Actg 527 Corporate Taxation I
+Actg 528 Corporate Taxation II
+Actg 530 Taxation of Property Transactions
+Actg 531 Partnership Taxation
+Actg 532 S Corporations Taxation
+Actg 533 Financial Accounting for Income Taxes
+Actg 535 State and Local Taxation
+Actg 536 International Taxation
+Actg 537 Tax Accounting Capstone Consulting Project
+Actg 539 Trust, Estate & Gift Taxation
+Actg 540 Practicum / Internship
+Actg 542 Tax Factors in Business Decisions
+Actg 544 Professional Practices Seminar
+Actg 545 Forensic Accounting
+Actg 545S Forensic Accounting
+Actg 550 Advanced Financial Reporting
+Actg 551 Accounting Information Systems
+Actg 552 Strategic Cost Management
+Actg 553 Financial Statement Analysis
+Actg 560 Professional Ethics and the Public Interest
+Actg 565 Current Topics in Global Financial Accounting
+Actg 585 Business Law
+Actg 585S Business Law
+Actg 592 Auditing Concepts and Practices
+Actg 592S Auditing Concepts and Practices
+Actg 593 Advanced Auditing
+Actg 593S Advanced Auditing
+Actg 601 Research
+Actg 607 Seminar
