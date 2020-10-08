@@ -15,21 +15,24 @@ public class PSUParser {
             Scanner reader = new Scanner(input);
             FileWriter writer = new FileWriter(output);
             BufferedWriter myWriter = new BufferedWriter(writer);
-            int department_id = 0; //modify this value every time you add courses for a department
+            int department_id = 149; //modify this value every time you add courses for a department
             int school_id = 2; //PSU's school id in the db is 2
             while (reader.hasNextLine()) {
                 String line = reader.nextLine();
                 StringTokenizer stringTokenizer = new StringTokenizer(line, " ");
                 int count = 0;
                 StringBuilder outputLine = new StringBuilder();
-                if (line.contains("Research") || line.contains("Internship")
-                || line.contains("Special Studies") || line.contains("Seminar") || line.contains("Special Projects")) {
+                if (line.contains("Research") || line.contains("Internship") || line.contains("Independent Study")
+                || line.contains("Special Studies") || line.contains("Seminar") || line.contains("Special Projects")
+                || line.contains("Thesis") || line.contains("Project") || line.contains("Workshop") || line.contains("Topics")
+                || line.contains("Externship") || line.contains("Selected Studies") || line.contains(" Lab ")
+                || line.contains("Dissertation") || line.contains("Practicum") || line.contains("Workshop")) {
                     System.out.println(line);
                     continue;
                 }
                 while (stringTokenizer.hasMoreTokens()) {
                     if (count == 0) {
-                        outputLine.append("('").append(stringTokenizer.nextToken()).append(" ");
+                        outputLine.append("('").append(stringTokenizer.nextToken().toUpperCase()).append(" ");
                     } else if (count == 1) {
                         outputLine.append(stringTokenizer.nextToken() + "', '");
                     } else {
