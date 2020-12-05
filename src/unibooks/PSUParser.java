@@ -15,7 +15,7 @@ public class PSUParser {
             Scanner reader = new Scanner(input);
             FileWriter writer = new FileWriter(output);
             BufferedWriter myWriter = new BufferedWriter(writer);
-            int department_id = 149; //modify this value every time you add courses for a department
+            int department_id = 84; //modify this value every time you add courses for a department
             int school_id = 2; //PSU's school id in the db is 2
             while (reader.hasNextLine()) {
                 String line = reader.nextLine();
